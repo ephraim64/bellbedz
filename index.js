@@ -1,5 +1,35 @@
 const products = [
   {
+    name: "Burlap Console Vases",
+    price: 1200,
+    img: "./asset/img14.jpg",
+  },
+  {
+    name: "Champagne Gold Crystal Vase",
+    price: 800,
+    img: "./asset/img3.jpg",
+  },
+  {
+    name: "Pumpkin Crystal Vase",
+    price: 600,
+    img: "./asset/img13.jpg",
+  },
+  {
+    name: "Gold Drips 3set Vases",
+    price: 1800,
+    img: "./asset/img18.jpg",
+  },
+  {
+    name: "Crystal Father Christmas Vase",
+    price: 600,
+    img: "./asset/img27.jpg",
+  },
+  {
+    name: "Smoke Diamond Crystal Vase",
+    price: 500,
+    img: "./asset/img21.jpg",
+  },
+  {
     name: "6 Coaster Blue Bamboo Set",
     price: 600,
     img: "./asset/img1.jpg",
@@ -8,11 +38,6 @@ const products = [
     name: "Pumpkin Hand Painted Crystal",
     price: 400,
     img: "./asset/img2.jpg",
-  },
-  {
-    name: "Champagne Gold Crystal Vase",
-    price: 800,
-    img: "./asset/img3.jpg",
   },
   {
     name: "Bamboo Wood Teal Table Coaster",
@@ -50,16 +75,6 @@ const products = [
     img: "./asset/img12.jpg",
   },
   {
-    name: "Pumpkin Crystal Vase",
-    price: 600,
-    img: "./asset/img13.jpg",
-  },
-  {
-    name: "Burlap Console Vases",
-    price: 1200,
-    img: "./asset/img14.jpg",
-  },
-  {
     name: "Crystal Vase Table Display",
     price: 600,
     img: "./asset/img15.jpg",
@@ -69,11 +84,7 @@ const products = [
     price: 2000,
     img: "./asset/img17.jpg",
   },
-  {
-    name: "Gold Drips 3set Vases",
-    price: 1800,
-    img: "./asset/img18.jpg",
-  },
+
   {
     name: "Coconut Carved Pourei Holder",
     price: 600,
@@ -84,11 +95,7 @@ const products = [
     price: 1000,
     img: "./asset/img20.jpg",
   },
-  {
-    name: "Smoke Diamond Crystal Vase",
-    price: 500,
-    img: "./asset/img21.jpg",
-  },
+
   {
     name: "Coconut Carved Pourei Holder",
     price: 250,
@@ -114,11 +121,7 @@ const products = [
     price: 900,
     img: "./asset/img26.jpg",
   },
-  {
-    name: "Crystal Father Christmas Vase",
-    price: 600,
-    img: "./asset/img27.jpg",
-  },
+
   {
     name: "Christmas Tree Wood Door",
     price: 500,
