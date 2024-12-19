@@ -93,21 +93,22 @@ button:hover {
 }
 
 .image img {
-   width: 350px;
-   height: 350px;
+   width: 250px;
+   height: 200px;
    background-size: cover;
-   border: solid 1px #ccc;
+   border: solid 1px #cccccc2a;
 }
 
 .details {
-   width: 350px;
+   width: 250px;
    margin: auto auto;
    padding: 20px;
-   background-color: #ccc;
+   background-color: #000;
+   color: white;
 }
 
 .details p {
-   font-size: 14px;
+   font-size: 12px;
    font-weight: 600;
    padding: 5px;
 }

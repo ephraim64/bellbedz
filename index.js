@@ -1,11 +1,11 @@
 const products = [
   {
-    name: "Pumpkin Hand Painted Crystal",
+    name: "6 Coaster Blue Bamboo Set",
     price: 600,
     img: "./asset/img1.jpg",
   },
   {
-    name: "6 Coaster Blue Bamboo Set",
+    name: "Pumpkin Hand Painted Crystal",
     price: 400,
     img: "./asset/img2.jpg",
   },
@@ -45,12 +45,12 @@ const products = [
     img: "./asset/img11.jpg",
   },
   {
-    name: "Coconut Carved Pourei Holder",
+    name: "Wood Hanging Carved Hanging",
     price: 600,
     img: "./asset/img12.jpg",
   },
   {
-    name: "Pumpkin Holder",
+    name: "Pumpkin Crystal Vase",
     price: 600,
     img: "./asset/img13.jpg",
   },
@@ -158,6 +158,41 @@ const products = [
     name: "Christmas Weave Basket",
     price: 350,
     img: "./asset/img35.jpg",
+  },
+  {
+    name: "Crystal Jewellery Table Boxes",
+    price: 400,
+    img: "./asset/img36.jpg",
+  },
+  {
+    name: "Crystal Case Holder",
+    price: 400,
+    img: "./asset/img37.jpg",
+  },
+  {
+    name: "Half Moon Case",
+    price: 300,
+    img: "./asset/img38.jpg",
+  },
+  {
+    name: "Wood Holder for Pourri",
+    price: 250,
+    img: "./asset/img39.jpg",
+  },
+  {
+    name: "Rabbit Wood Holder",
+    price: 300,
+    img: "./asset/img40.jpg",
+  },
+  {
+    name: "Bird Carved Wood Hanging",
+    price: 300,
+    img: "./asset/img41.jpg",
+  },
+  {
+    name: "Christmas Weave Basket",
+    price: 350,
+    img: "./asset/img42.jpg",
   },
 ];
 
